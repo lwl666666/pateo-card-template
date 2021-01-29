@@ -1,0 +1,184 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 2336069 */
+  src: url('https://at.alicdn.com/t/font_2336069_j7lqc92vo1c.ttf') format('truetype');
+}
+
+.iconicon {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconicon_jian:before {
+  content: "\e7e3";
+}
+
+.iconicon_add:before {
+  content: "\e7e4";
+}
+
+.iconicon_home:before {
+  content: "\e7e1";
+}
+
+.iconicon_back1:before {
+  content: "\e7e2";
+}
+
+.iconicon_company:before {
+  content: "\e7e0";
+}
+
+.iconicon_Favorites2:before {
+  content: "\e7be";
+}
+
+.iconicon_saomiao:before {
+  content: "\e7bf";
+}
+
+.iconicon_Refresh:before {
+  content: "\e7c0";
+}
+
+.iconicon_alarm:before {
+  content: "\e7c1";
+}
+
+.iconicon_save:before {
+  content: "\e7c2";
+}
+
+.iconicon_put:before {
+  content: "\e7c3";
+}
+
+.iconicon_QRcode:before {
+  content: "\e7c4";
+}
+
+.iconicon_voice:before {
+  content: "\e7c5";
+}
+
+.iconicon_phone:before {
+  content: "\e7c6";
+}
+
+.iconicon_video:before {
+  content: "\e7c7";
+}
+
+.iconicon_mail:before {
+  content: "\e7c8";
+}
+
+.iconicon_close:before {
+  content: "\e7c9";
+}
+
+.iconicon_stop:before {
+  content: "\e7ca";
+}
+
+.iconicon_navigation24:before {
+  content: "\e7cb";
+}
+
+.iconicon_close2:before {
+  content: "\e7cc";
+}
+
+.iconicon_Heating:before {
+  content: "\e7cd";
+}
+
+.iconicon_xiugai:before {
+  content: "\e7ce";
+}
+
+.iconicon_list:before {
+  content: "\e7cf";
+}
+
+.iconicon_play:before {
+  content: "\e7d0";
+}
+
+.iconicon_Seat3:before {
+  content: "\e7d1";
+}
+
+.iconicon_zan:before {
+  content: "\e7d2";
+}
+
+.iconicon_back:before {
+  content: "\e7d3";
+}
+
+.iconicon_Seat2:before {
+  content: "\e7d4";
+}
+
+.iconicon_Previous:before {
+  content: "\e7d5";
+}
+
+.iconicon_next:before {
+  content: "\e7d6";
+}
+
+.iconicon_Smoking:before {
+  content: "\e7d7";
+}
+
+.iconicon_all:before {
+  content: "\e7d8";
+}
+
+.iconicon_kongtiao:before {
+  content: "\e7d9";
+}
+
+.iconicon_fan:before {
+  content: "\e7da";
+}
+
+.iconicon_food:before {
+  content: "\e7db";
+}
+
+.iconicon_Seat1:before {
+  content: "\e7dc";
+}
+
+.iconicon_Wiper:before {
+  content: "\e7dd";
+}
+
+.iconicon_help:before {
+  content: "\e7de";
+}
+
+.iconicon_shopping:before {
+  content: "\e7df";
+}
+
+.iconicon_failure:before {
+  content: "\e7ba";
+}
+
+.iconicon_hangup:before {
+  content: "\e7bb";
+}
+
+.iconicon_Answer:before {
+  content: "\e7bc";
+}
+
+.iconicon_success:before {
+  content: "\e7bd";
+}
